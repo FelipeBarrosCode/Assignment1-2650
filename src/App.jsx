@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + Reactive OMG IT ISdddd VITE</h1>
+      <h1>This is my Vite App in my new Breanch</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
